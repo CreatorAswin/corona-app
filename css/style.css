@@ -587,9 +587,9 @@ body:after {
     overflow: hidden; }
   .site-blocks-cover, .site-blocks-cover > .container > .row {
     height: calc(20vh);
-    min-height: 175px; }
+    min-height: 15px; }
   .site-blocks-cover.inner-page-cover, .site-blocks-cover.inner-page-cover > .container > .row {
-    min-height: 175px;
+    min-height: 15px;
     height: calc(20vh); }
   @media (max-width: 991.98px) {
     .site-blocks-cover .intro-text {
@@ -603,7 +603,7 @@ body:after {
         font-size: 2rem; } }
   @media (max-width: 991.98px) {
     .site-blocks-cover .cover-img {
-      max-width: 175px;
+      max-width: 15px;
       margin-left: auto;
       margin-right: auto; } }
   .site-blocks-cover p {
